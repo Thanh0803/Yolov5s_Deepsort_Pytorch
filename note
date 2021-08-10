@@ -1,0 +1,7 @@
+#############
+python3 track.py --source home/dell/WORK/Yolov5_DeepSort_Pytorch/test.mp4 --yolo_weights yolov5s.pt --img 640 --show-vid --classes 0 # tracking vs yolov5s
+
+#############
+
+- Point 1: (0; 934)
+- Point 2: (707;179)
